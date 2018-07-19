@@ -65,7 +65,7 @@ Ultimately, I searched on two scales using YCrCb 3-channel HOG features plus spa
 ### Video Implementation
 
 #### 1. Project Video Analysis
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./test_videos_output/project_video.mp4)
 
 
 #### 2. Filtering Out False Positives
