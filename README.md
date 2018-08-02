@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 
 ---
 ### Project Code
-The project code is given in [Vehicle-Detection.ipynb](https://github.com/anammy/CarND-Vehicle-Detection/blob/master/Vehicle-Detection.ipynb)
+The project code is given in [Vehicle-Detection.ipynb](https://github.com/anammy/CarND-Vehicle-Detection/blob/master/Vehicle-Detection.ipynb).
 
 ### Feature Extraction
 
