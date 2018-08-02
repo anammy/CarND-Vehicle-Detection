@@ -18,10 +18,12 @@ The goals / steps of this project are the following:
 [image6]: ./output_images/testvid1.jpg
 [video1]: ./project_video.mp4
 
-## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
+<!---## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
+### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.--->  
 
 ---
+### Project Code
+The project code is given in [Vehicle-Detection.ipynb](https://github.com/anammy/CarND-Vehicle-Detection/blob/master/Vehicle-Detection.ipynb)
 
 ### Feature Extraction
 
